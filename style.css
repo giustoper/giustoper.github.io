@@ -10,7 +10,7 @@ body {
 #main {
     text-align: center;
     background: url("http://i66.tinypic.com/a6sjk.jpg") fixed #000000;
-    background-size: 100% 100%;
+    background-size: 100%;
 }
 
 #header {
@@ -74,16 +74,3 @@ li {
     height: auto;
 }
 
-@media screen and (device-width: 360) and (-webkit-device-pixel-ratio: 2) {
-    #main {
-        background-image: none;
-        background-color: green;
-        display: inline-block;
-    }
-    h2, h3 {
-        font-size: 2em;
-    }
-    #imgnote {
-        font-size: 0.1em;
-    }
-}
