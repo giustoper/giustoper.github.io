@@ -75,8 +75,9 @@ li {
 }
 
 @media screen and (max-width: 720px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 2) {
-    body {
+    #main {
         background-image: none;
+        background-color: #000000;
     }
     h2, h3 {
         font-size: 2em;
