@@ -3,6 +3,10 @@
     --border-radius: 50px;
 }
 
+body {
+    font-size: 15px;
+}
+
 #main {
     text-align: center;
     background: url("http://i66.tinypic.com/a6sjk.jpg") no-repeat fixed #000000;
