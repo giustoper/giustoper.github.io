@@ -78,6 +78,7 @@ li {
     #main {
         background-image: none;
         background-color: green;
+        display: inline-block;
     }
     h2, h3 {
         font-size: 2em;
