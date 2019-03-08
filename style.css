@@ -10,7 +10,7 @@ body {
 #main {
     text-align: center;
     background: url("http://i66.tinypic.com/a6sjk.jpg") no-repeat center center fixed;
-    
+    -webkit-background-size: cover;
     background-size: cover;
 }
 
