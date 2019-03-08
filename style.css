@@ -76,9 +76,8 @@ li {
 
 @media screen and (max-width: 800px) and (max-height: 1300px) and (-webkit-device-pixel-ratio: 2) {
     #main {
-        font-size: 10px;
-        background-size: 100px 100px;
-        background-position: left top;
+        font-size: 5px;
+        background: url("einsteinbackground.jpg") 100px 100px fixed #000000;
     }
     
     h2, h3 {
