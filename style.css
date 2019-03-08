@@ -11,7 +11,7 @@ body {
     text-align: center;
     background-image: url("http://i66.tinypic.com/a6sjk.jpg");
     background-size: 100% 100%;
-    -webkit-background-size: 720px;
+    -webkit-background-size: 1vw;
     background-attachment: fixed;
     background-position: 100%;
 }
