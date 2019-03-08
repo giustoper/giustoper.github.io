@@ -76,7 +76,7 @@ li {
 
 @media screen and (max-width: 720px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 2) {
     #main {
-        background-size: auto auto;
+        background-size: 720px 1280px;
         background-attachment: unset;
     }
     
