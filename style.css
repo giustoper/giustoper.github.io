@@ -13,7 +13,6 @@ body {
     background-size: 100% 100%;
     -webkit-background-size: 10px 10px;
     background-attachment: fixed;
-    background-position: 100%;
 }
 
 #header {
