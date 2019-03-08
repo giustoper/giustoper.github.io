@@ -9,9 +9,9 @@ body {
 
 #main {
     text-align: center;
-    background: url("http://i66.tinypic.com/a6sjk.jpg") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    background-size: cover;
+    background-image: url("http://i66.tinypic.com/a6sjk.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
 #header {
@@ -73,10 +73,4 @@ li {
     max-width: auto;
     display: block;
     height: auto;
-}
-
-@media screen and (max-width: 800px) and (-webkit-device-pixel-ratio: 2) {
-    #media {
-        background-size: 3vw 1vw;
-    }
 }
