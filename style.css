@@ -70,7 +70,7 @@ li {
     height: auto;
 }
 
-@media only screen and (device-width: 720px) and (device-height: 1280px) {
+@media screen and (device-width: 360px) and (device-height: 640px) {
     #main {
         background-size: 50% 50%;
         background-image: none;
