@@ -70,7 +70,7 @@ li {
     height: auto;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 800px) {
     body {
         background-image: url();
         background-color: green;
@@ -81,6 +81,6 @@ li {
     }
 
     #imgnote {
-        font-size: 0.5em;
+        font-size: 10px;
     }
 }
