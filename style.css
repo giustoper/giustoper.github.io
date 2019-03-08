@@ -72,8 +72,7 @@ li {
 
 @media only screen and (max-width: 800px) {
     body {
-        background-image: url();
-        background-color: green;
+        background-size: 50%;
     }
 
     h2, h3 {
