@@ -3,20 +3,6 @@
     --border-radius: 50px;
 }
 
-@media screen and (max-width: 1000px) {
-    body {
-        background-color: green;
-    }
-
-    h2, h3 {
-        font-size: 1em;
-    }
-
-    #imgnote {
-        font-size: 0.5em;
-    }
-}
-
 #main {
     text-align: center;
     background: url("http://i66.tinypic.com/a6sjk.jpg") no-repeat fixed #000000;
@@ -82,4 +68,19 @@ li {
     max-width: auto;
     display: block;
     height: auto;
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        background-image: url("");
+        background-color: green;
+    }
+
+    h2, h3 {
+        font-size: 1em;
+    }
+
+    #imgnote {
+        font-size: 0.5em;
+    }
 }
